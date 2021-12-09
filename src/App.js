@@ -96,6 +96,7 @@ function App() {
                           __html:
                               (tweet && tweetFormat(tweet)) || "Bu alana örnek tweet gelecek"
                       }}></p>
+                      <div className='tarihler'>ÖS 8:48 · 9 Ara 2011·Twitter for iPhone</div>
                   </div>
                   <div className="tweet-stats">
             <span>
